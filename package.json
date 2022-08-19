@@ -1,7 +1,7 @@
 {
   "name": "ps-riquelme-sass",
   "version": "1.0.0",
-  "description": "",
+  "description": "pagina de venta de celulares",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/lycan1979/PS-riquelme-sass.git"
   },
-  "author": "",
+  "author": "riquelme guillermo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lycan1979/PS-riquelme-sass/issues"
